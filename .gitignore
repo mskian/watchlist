@@ -1,0 +1,8 @@
+db
+db/
+.env
+admin
+admin/
+admin.php
+cache
+cache/
